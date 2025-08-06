@@ -1,5 +1,3 @@
-# mongo_agent.py
-
 import os
 import json
 import ast
